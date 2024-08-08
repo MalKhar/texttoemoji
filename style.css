@@ -1,0 +1,27 @@
+div.flex {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: 400px;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+h1 {
+    display: block;
+}
+
+p.output {
+  color: #444;
+  text-wrap: wrap;
+  max-width: auto;
+}
+
+input {
+  display: block;
+  height: 30px;
+  width: 400px;
+}
