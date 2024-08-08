@@ -16,7 +16,3 @@ input.addEventListener("keyup", (e) => {
 
   p.innerHTML = newArray.join("");
 });
-
-const p = document.querySelector(".output");
-
-console.log(newArray);
