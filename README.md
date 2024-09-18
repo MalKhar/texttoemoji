@@ -2,4 +2,4 @@
 
 ## Just write your text, copy the output and paste on discord chat!
 
-<a href="https://texttoemoji.vercel.app/">Link to convert your text with no need to download the code.</a>
+<a href="https://texttoemoji.vercel.app/" target="_blank">Link to convert your text with no need to download the code.</a>
