@@ -1,3 +1,3 @@
-#Text to emoji converts simple text to Discord corresponding letter emojis
+# Text to emoji converts simple text to Discord corresponding letter emojis
 
-##Just write your text, copy the output and paste on discord chat!
+## Just write your text, copy the output and paste on discord chat!
